@@ -1,0 +1,4 @@
+"./Drivers/Src/stm32f446xx_SPI_driver.o"
+"./Drivers/Src/stm32f446xx_gpio_driver.o"
+"./Src/SPI_tx_to_arduino.o"
+"./Startup/startup_stm32f446retx.o"
